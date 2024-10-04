@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+alpine:20240606 crpi-21js5a23inpoao1o.cn-guangzhou.personal.cr.aliyuncs.com/melonhouse-proxy/alpine:20240606
